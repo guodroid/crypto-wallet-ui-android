@@ -1,4 +1,4 @@
-### Light Fast Sweet Wallet 
+### Light Fast Sweet UI Framework For Crypto Currency
 [![Build Status](https://travis-ci.org/trustnote/trustnote-wallet-android.svg?branch=master)](https://travis-ci.org/trustnote/trustnote-wallet-android) 
 
 ### Build your own secure wallet from source code:
