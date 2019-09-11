@@ -1,5 +1,5 @@
 ### Light Fast Sweet UI Framework For Crypto Currency
--[![Build Status](https://travis-ci.org/guodroid/crypto-wallet-ui-android.svg?branch=master)](https://travis-ci.org/guodroid/crypto-wallet-ui-android) 
+[![Build Status](https://travis-ci.org/guodroid/crypto-wallet-ui-android.svg?branch=master)](https://travis-ci.org/guodroid/crypto-wallet-ui-android) 
 
 ### Build your own secure wallet from source code:
 - Install android SDK
