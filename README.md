@@ -1,5 +1,4 @@
 ### Light Fast Sweet UI Framework For Crypto Currency
-[![Build Status](https://travis-ci.org/trustnote/trustnote-wallet-android.svg?branch=master)](https://travis-ci.org/trustnote/trustnote-wallet-android) 
 
 ### Build your own secure wallet from source code:
 - Install android SDK
@@ -7,8 +6,8 @@
 ```
 ##tested from Mac
 cd
-git clone https://github.com/trustnote/trustnote-wallet-android.git
-cd trustnote-wallet-android
+git clone https://github.com/guodroid/crypto-wallet-ui-android.git
+cd crypto-wallet-ui-android
 gradlew publishAll
 ```
 - Above build script will generate 4 apk in myfileserver. two for TTT main net, the other two for test net.
@@ -16,15 +15,11 @@ gradlew publishAll
 - Deploy the apk into your android phone.
 
 
-### Get free MN in test net:
-- Open the app with testnet, restore wallet with below mnemonic, the wallet will already had MNs, transfer MN to your own wallet.
 ```
 Test wallet mnemonics:
 1. theme wall plunge fluid circle organ gloom expire coach patient neck clip
 2. together knife slab material electric broom wagon heart harvest side copper vote
 ```
-
-- [Another free test MN faucet](http://dev.trustnote.org/getTTT) 
 
 
 ### Reference:
